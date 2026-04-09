@@ -1,6 +1,3 @@
-<div align="center"><img width="70%" src="https://cdn.discordapp.com/attachments/1017139709090209824/1119770279384711208/mine.jpg"></div>
-
-
 <div align="left">
     <h1 align="center">Mine and Craft</h1>
     <h2 align="center"> Proposta do trabalho </h2>
